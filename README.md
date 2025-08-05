@@ -1,1 +1,1 @@
-RKT News 
+RKTNews is a web application that provides users with the latest news headlines, categorized by various topics such as General, Business, Sports, Technology, and Entertainment. The app also features an advanced search option that allows users to search for news articles based on specific criteria like date range, language, sources, and more. 
