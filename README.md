@@ -18,6 +18,6 @@ RKTNews is a web application that provides users with the latest news headlines,
 * NewsAPI: Provides live news data from various sources.
 
 ## NewsAPI Key
-* Sign up at NewsAPI to get an API key.
+* Sign up at NewsAPI to get an API key.</br>
        >. Open index.js and replace const API_KEY = ""; with your API key:
        >. const API_KEY = "your-api-key-here";
