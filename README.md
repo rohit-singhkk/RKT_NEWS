@@ -16,3 +16,8 @@ RKTNews is a web application that provides users with the latest news headlines,
 * Bootstrap 5: For responsive layouts and pre-built components like the navbar, forms, and cards.
 * JavaScript: For dynamic content loading and interaction, including API requests and DOM manipulation.
 * NewsAPI: Provides live news data from various sources.
+
+## NewsAPI Key
+* Sign up at NewsAPI to get an API key.
+        Open index.js and replace const API_KEY = ""; with your API key:
+        const API_KEY = "your-api-key-here";
