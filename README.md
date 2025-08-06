@@ -3,3 +3,9 @@
 
 
 RKTNews is a web application that provides users with the latest news headlines, categorized by various topics such as General, Business, Sports, Technology, and Entertainment. The app also features an advanced search option that allows users to search for news articles based on specific criteria like date range, language, sources, and more. 
+
+## Features
+* Responsive Design: The layout adjusts to various screen sizes, providing a seamless experience on both desktop and mobile devices.
+* News Categories: Browse news articles categorized into General, Business, Sports, Technology, and Entertainment.
+* Advanced Search: Filter news by date range, language, sources, and sort by relevance, popularity, or publication date.
+* API Integration: Fetches live news data from the NewsAPI.
